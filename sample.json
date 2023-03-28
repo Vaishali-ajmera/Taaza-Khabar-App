@@ -1,0 +1,254 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Gawon Bae, Jessie Yeung",
+            "title": "Record rainfall kills at least 8 in Seoul as water floods buildings, submerges cars - CNN",
+            "description": "At least eight people were killed in Seoul on Monday after record downpours flooded homes, roads and subway stations in the South Korean capital, cutting power and forcing hundreds to evacuate, according to authorities.",
+            "url": "https://www.cnn.com/2022/08/09/asia/seoul-south-korea-rain-flooding-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220808221915-01-seoul-flooding-080822.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-08-09T08:07:00Z",
+            "content": "At least eight people were killed in Seoul on Monday after record downpours flooded homes, roads and subway stations in the South Korean capital, cutting power and forcing hundreds to evacuate, accor… [+2464 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KABC-TV"
+            },
+            "author": null,
+            "title": "Anne Heche crash: Actress slipped into coma, remains in critical condition, rep says - KABC-TV",
+            "description": "Actress Anne Heche fell into a coma and is in critical condition after her car crashed into a Los Angeles home, a spokesperson disclosed Monday.",
+            "url": "https://abc7.com/anne-heche-car-crash-mar-vista-actress-la-accident-hospitalized/12109372/",
+            "urlToImage": "https://cdn.abcotvs.com/dip/images/12103040_080522-kgo-ap-anne-heche.jpg?w=1600",
+            "publishedAt": "2022-08-09T07:46:12Z",
+            "content": "MAR VISTA, LOS ANGELES (KABC) -- Actress Anne Heche fell into a coma and is in critical condition after her car crashed into a Los Angeles home, a spokesperson disclosed Monday.\r\nInitial reports decl… [+4122 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBSLA Staff",
+            "title": "Houston nurse Nicole Linton charged with murder, gross vehicular manslaughter in Windsor Hills crash that killed 6 - CBS Los Angeles",
+            "description": "Nicole Lorraine Linton, 37, was behind the wheel of a Mercedes-Benz that barreled through a red light at Slauson and La Brea avenues last Thursday and slammed to several other vehicles in the Windsor Hills area, according to the CHP.",
+            "url": "https://www.cbsnews.com/losangeles/news/houston-nurse-nicole-linton-charged-murder-gross-vehicular-manslaughter-windsor-hills-crash-killed-6/",
+            "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/05/66d99668-3b6f-404f-ba43-459fc314e362/thumbnail/1200x630/b59676bd7f09dfc5957ffce0070028f2/gettyimages-1242321849.jpg",
+            "publishedAt": "2022-08-09T06:28:00Z",
+            "content": "A nurse from Houston was charged Monday with six counts of murder and five counts of gross vehicular manslaughter for the fiery crash that killed six people, including an infant and a pregnant woman.… [+2555 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Taiwanese foreign minister says China drills part of a game-plan for invasion - Reuters.com",
+            "description": "Taiwan's foreign minister said on Tuesday that China was using the military drills it launched in protest against U.S. House Speaker Nancy Pelosi's visit as a game-plan to prepare for an invasion of the self-ruled island.",
+            "url": "https://www.reuters.com/world/asia-pacific/taiwanese-foreign-minister-warns-china-preparing-invasion-2022-08-09/",
+            "urlToImage": "https://www.reuters.com/resizer/GqU7JawCNPuELuDLWh7cVlzY78c=/1080x565/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VKINZZI2TVP7JPYIEJBH6CE7U4.jpg",
+            "publishedAt": "2022-08-09T06:18:00Z",
+            "content": "TAIPEI, Aug 9 (Reuters) - Taiwan's foreign minister said on Tuesday that China was using the military drills it launched in protest against U.S. House Speaker Nancy Pelosi's visit as a game-plan to p… [+3563 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nimi Princewill, Stephanie Busari",
+            "title": "Kenyans are casting their ballots for a new leader in a fiercely-contested race that's too close to call - CNN",
+            "description": "Kenyans are heading to the polls Tuesday in crucial elections as outgoing President Uhuru Kenyatta prepares to hand over power to a new leader. it is a tight race and some analysts say it could lead to a run-off for the first time in Kenya's history.",
+            "url": "https://www.cnn.com/2022/08/09/africa/kenya-elections-polls-open-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220726094841-william-ruto-raila-odinga-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-08-09T06:16:00Z",
+            "content": "Kenyans are heading to the polls Tuesday in crucial elections as outgoing President Uhuru Kenyatta prepares to hand over power to a new leader.\r\nAbout 22 million Kenyans have registered to vote, the … [+6220 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KTLA Los Angeles"
+            },
+            "author": "Travis Schlepp",
+            "title": "Speeding motorcycle leads authorities on pursuit through San Fernando Valley - KTLA Los Angeles",
+            "description": "The Los Angeles Police Department pursued the driver of a stolen tow truck Monday before they exited the vehicle and fled at high speeds on a motorcycle. The chase began in the Downey area on the 5 Freeway as authorities followed the truck from a distance. At…",
+            "url": "https://ktla.com/news/local-news/lapd-in-pursuit-of-motorcycle-in-tujunga/",
+            "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2022/08/speeding-motorcycle.jpeg?w=1280",
+            "publishedAt": "2022-08-09T05:44:39Z",
+            "content": "The Los Angeles Police Department pursued the driver of a stolen tow truck Monday before they exited the vehicle and fled at high speeds on a motorcycle.\r\nThe chase began in the Downey area on the 5 … [+810 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Cryptoverse: Blockchain bridges fall into troubled waters - Reuters",
+            "description": "Another day, another hack - and another blockchain bridge burned.",
+            "url": "https://www.reuters.com/technology/cryptoverse-blockchain-bridges-fall-into-troubled-waters-2022-08-09/",
+            "urlToImage": "https://www.reuters.com/resizer/koRr6wzvqUCPOgJi5PPl7pgisIU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LL4HSL6N7FIZDCZW7D4JZM5WKU.jpg",
+            "publishedAt": "2022-08-09T05:13:00Z",
+            "content": "Aug 9 (Reuters) - Another day, another hack - and another blockchain bridge burned.\r\nWhen thieves stole an estimated $190 million from U.S. crypto firm Nomad last week, it was the seventh hack of 202… [+4362 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Marly Rivera",
+            "title": "Matt Carpenter fractures left foot on foul ball amid resurgent season with New York Yankees - ESPN",
+            "description": "Yankees DH Matt Carpenter, a front-runner for AL Comeback Player of the Year, fractured his left foot when he fouled off a pitch Monday night against the Mariners.",
+            "url": "https://www.espn.com/mlb/story/_/id/34372330/matt-carpenter-fractures-left-foot-foul-ball-amid-resurgent-season-new-york-yankees",
+            "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0809%2Fr1046210_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-08-09T05:06:54Z",
+            "content": "SEATTLE -- Matt Carpenter's dream comeback season with the New York Yankees might have come to an early end Monday night.\r\nCarpenter, 36, broke his left foot when he fouled off an 89 mph slider from … [+4425 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nectar Gan, CNN",
+            "title": "They came for a beach holiday. Now they're trapped in China's latest Covid lockdown - CNN",
+            "description": "What began as a leisurely escape to Sanya on China's Hainan Island has become a travel nightmare for tens of thousands of holidaymakers, who are trapped in a lockdown imposed to curb a Covid outbreak.",
+            "url": "https://www.cnn.com/2022/08/08/china/china-covid-sanya-lockdown-tourists-intl-hnk-mic/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220808015305-02-china-sanya-covid-lockdown-tourists-intl-hnk-mic-super-tease.jpg",
+            "publishedAt": "2022-08-09T04:16:00Z",
+            "content": "A version of this story appeared in CNN's Meanwhile in China newsletter, a three-times-a-week update exploring what you need to know about the country's rise and how it impacts the world. Sign up her… [+5461 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Armando Tinoco",
+            "title": "Ashton Kutcher Reveals Rare Disease Diagnosis That Left Him Unable To See, Hear, Or Walk - Deadline",
+            "description": "Ashton Kutcher is opening up about an autoimmune disease he was diagnosed with that left him unable to see, hear, or walk. The actor shared the diagnosis in an upcoming episode of National Geographic’s Running Wild with Bear Grylls: The Challenge. “Like two y…",
+            "url": "https://deadline.com/2022/08/ashton-kutcher-reveals-rare-disease-diagnosis-left-him-unable-to-see-hear-walk-1235087961/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2022/08/ashton-kutcher.jpg?w=1024",
+            "publishedAt": "2022-08-09T03:23:00Z",
+            "content": "Ashton Kutcher is opening up about an autoimmune disease he was diagnosed with that left him unable to see, hear, or walk. The actor shared the diagnosis in an upcoming episode of National Geographic… [+1612 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures: Stock Market Rally Faces Key Inflation Report - Investor's Business Daily",
+            "description": "The Labor Department's consumer price index will come out Wednesday.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-faces-key-inflation-report-covid-vaccine-maker-crashes-on-earnings/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2021/03/FAB-inflation-040521-adobe.jpg",
+            "publishedAt": "2022-08-09T03:03:00Z",
+            "content": "Dow Jones futures were higher after Monday's stock market action. On Wednesday, a key inflation report the Labor Department's consumer price index is due out. And Nvidia stock dived more than 6% afte… [+7082 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Karina Tsui",
+            "title": "Russia, Ukraine open to IAEA visit after 'suicidal' nuclear plant strike - The Washington Post",
+            "description": "In the wake of purported strikes targeting Zaporizhzhia, world leaders and experts are calling Russian and Ukrainian forces to declare a military-free zone.",
+            "url": "https://www.washingtonpost.com/world/2022/08/08/zaporizhzhia-shelling-ukraine-nuclear-plant-un-iaea-russia/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZAQQGTAW6MI63OMYWKVWR5MENA.jpg&w=1440",
+            "publishedAt": "2022-08-09T02:34:00Z",
+            "content": "Comment on this story\r\nDiplomats raised the alarm Monday over reported shelling at the Zaporizhzhia nuclear plant in southeastern Ukraine, urging Russian and Ukrainian forces to halt the fighting and… [+3316 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Alan Sepinwall",
+            "title": "‘It’s Time to Do Something New’: ‘Better Call Saul’ Co-Creator Vince Gilligan on His Final Episode as Writer-Director - Rolling Stone",
+            "description": "After 15-plus years in the Heisenberg-verse, the showrunner says he's ready to leave it behind — he thinks for good",
+            "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/better-call-saul-vince-gilligan-final-episode-interview-1393644/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/08/BCS_612_GL_1214_0740-RTc.jpg",
+            "publishedAt": "2022-08-09T02:21:00Z",
+            "content": "Vince Gilligan will be the first to tell you he’s a bad planner. It’s not just that the co-creator of Better Call Saulmissed his own show’s wrap party because he and his partner Holly had already sch… [+9703 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KSL.com"
+            },
+            "author": "Megan Marples, CNN",
+            "title": "Earth broke the record for the shortest day since atomic clocks were invented - KSL.com",
+            "description": "If you feel like there's less time in the day, you're correct.",
+            "url": "https://www.ksl.com/article/50454183/earth-broke-the-record-for-the-shortest-day-since-atomic-clocks-were-invented",
+            "urlToImage": "https://img.ksl.com/slc/2887/288798/28879810.jpg?filter=kslv2/responsive_story_lg",
+            "publishedAt": "2022-08-09T02:16:39Z",
+            "content": "Estimated read time: 4-5 minutes\r\nATLANTA If you feel like there's less time in the day, you're correct.\r\nScientists recorded the shortest day on Earth since the invention of the atomic clock.\r\nOur p… [+4265 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Sharon LaFraniere, Noah Weiland",
+            "title": "U.S. Moves to Stretch Out Monkeypox Vaccine Supply - The New York Times",
+            "description": "The approach would involve injecting one-fifth of the current dose into the skin instead of a full dose into underlying fat.",
+            "url": "https://www.nytimes.com/2022/08/08/us/politics/monkeypox-vaccine.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/08/08/multimedia/08dc-monkeypox-1/08dc-monkeypox-1-facebookJumbo.jpg",
+            "publishedAt": "2022-08-09T02:14:16Z",
+            "content": "The Department of Health and Human Services last week also issued a broader public emergency declaration that allowed the federal government to more easily allot money and other resources to fight th… [+2070 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Zach Koons",
+            "title": "Nets Owner Joe Tsai Releases Statement Amid Kevin Durant Report - Sports Illustrated",
+            "description": "The firm public stance comes amid a report that Kevin Durant issued an ultimatum.",
+            "url": "https://www.si.com/nba/2022/08/09/nets-owner-joe-tsai-releases-statement-kevin-durant-ultimatum",
+            "urlToImage": "https://www.si.com/.image/t_share/MTkxNDgwOTg5MzU5Mjg1NzQ2/kevin-durant-tsai.jpg",
+            "publishedAt": "2022-08-09T00:44:41Z",
+            "content": "Nets owner Joe Tsai broke his public silence regarding Kevin Durant’s trade request Monday, taking to Twitter to issue a firm defense of the franchise’s front office and coaching staff.\r\n“Our front o… [+1674 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kaitlan Collins, Dan Berman, Kevin Liptak, Katelyn Polantz, Sara Murray",
+            "title": "FBI executes search warrant at Trump's Mar-a-Lago in document investigation - CNN",
+            "description": "The FBI executed a search warrant on Monday at Donald Trump's Mar-a-Lago resort in Palm Beach, Florida, as part of an investigation into the handling of presidential documents, including classified documents, that may have been brought to Florida, three peopl…",
+            "url": "https://www.cnn.com/2022/08/08/politics/mar-a-lago-search-warrant-fbi-donald-trump/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220808101326-donald-trump-0806.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-08-09T00:09:00Z",
+            "content": "The FBI executed a search warrant on Monday at Donald Trumps Mar-a-Lago resort in Palm Beach, Florida, as part of an investigation into the handling of presidential documents, including classified do… [+1545 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Abigail Ng",
+            "title": "Japan's Nikkei leads losses in mixed Asia markets; SoftBank shares drop 6% after earnings losses - CNBC",
+            "description": "Shares in the Asia-Pacific were mixed Tuesday on a quiet data day as markets continue to digest last week's stellar U.S. jobs report.",
+            "url": "https://www.cnbc.com/2022/08/09/asia-markets-earnings-stocks-currencies-oil.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106804706-1606865566516-gettyimages-1229866437-JAPAN_JPX.jpeg?v=1660001936&w=1920&h=1080",
+            "publishedAt": "2022-08-08T23:52:32Z",
+            "content": "SINGAPORE Shares in the Asia-Pacific were mixed Tuesday on a quiet data day as markets continue to digest last week's stellar U.S. jobs report.\r\nSoftBank Group's stock fell more than 6% after its Vis… [+2838 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jason Owens",
+            "title": "NFL training camp 2022: Lions RB Jamaal Williams vows to 'run over you while crying' after impassioned practice speech - Yahoo Sports",
+            "description": "Dan Campbell's enthusiasm appears to be contagious",
+            "url": "https://sports.yahoo.com/nfl-training-camp-2022-lions-rb-jamaal-williams-vows-to-run-over-you-while-crying-after-impassioned-practice-speech-233435258.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zi66OCcK38xc7BidFW4WVw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-08/2a6535e0-1772-11ed-aa7f-7368f9860aea",
+            "publishedAt": "2022-08-08T23:34:35Z",
+            "content": "Dan Campbell's energy appears to be contagious.\r\nThe second-year Detroit Lions head coach made enthusiasm his calling card when he took over in 2021. During a recent training camp huddle, running bac… [+1856 chars]"
+        }
+    ]
+}
